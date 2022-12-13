@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `batches` ADD COLUMN `bno` VARCHAR(100) NOT NULL DEFAULT '';
