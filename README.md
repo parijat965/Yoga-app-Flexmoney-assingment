@@ -14,6 +14,18 @@ git clone https://github.com/parijat965/Yoga-app-Flexmoney-assingment.git
 ```
 Go to the project directory
 ```
+cd server
+```
+Install dependencies
+```
+npm i
+```
+Start the server
+```
+npm run dev
+```
+Go to the project directory
+```
 cd client
 ```
 Install dependencies
