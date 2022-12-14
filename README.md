@@ -32,7 +32,7 @@ Install dependencies
 ```
 npm i
 ```
-Start the server
+Start the client
 ```
 npm run dev
 ```
